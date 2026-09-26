@@ -7,5 +7,5 @@ def main():
 
 main();
 
-def multiply_by_two(x: int):
-    return x*2
+def multiply(x: int, y: int):
+    return x*y
