@@ -3,6 +3,9 @@
 
 
 def main():
-    print("hello world")
+    prit("hello world")
 
 main();
+
+def multiply_by_two(x: int):
+    return x*2
