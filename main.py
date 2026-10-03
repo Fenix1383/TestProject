@@ -3,9 +3,9 @@
 
 
 def main():
-    prit("hello world")
+    print("hello world")
 
-main();
+main()
 
 def multiply(x: int, y: int):
     return x*y
